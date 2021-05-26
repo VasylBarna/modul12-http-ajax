@@ -1,0 +1,27 @@
+{
+  "name": "modul12-http-ajax",
+  "version": "1.0.0",
+  "description": "Модуль 12. HTTP-запросы (AJAX)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VasylBarna/modul12-http-ajax.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VasylBarna/modul12-http-ajax/issues"
+  },
+  "homepage": "https://github.com/VasylBarna/modul12-http-ajax#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-handlebars-precompile": "^1.0.2",
+    "parcel-plugin-nuke-dist": "^1.0.1"
+  },
+  "dependencies": {}
+}
